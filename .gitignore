@@ -3,3 +3,5 @@ main
 go_crawler
 .vscode
 examples/e_1/e_1
+examples/e_2/e_2
+examples/channel_test/channel_test
